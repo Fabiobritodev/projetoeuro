@@ -29,6 +29,7 @@ box-sizing:border-box ;
 body{
 
 background: var(--bg-url) no-repeat top center/cover;
+height: 100vh;
 
 }
 
