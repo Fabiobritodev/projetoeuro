@@ -163,3 +163,14 @@ background: var(--highlight-color);
 
 
 }
+
+/*media queries */
+@media (min-width: 700px) {
+    :root {
+    --bg-url: url(./marcaspernanbuco.png);
+}
+
+.light{
+    --bg-url: url(./marcaspernanbuco.png);
+}
+}
